@@ -114,7 +114,7 @@ export const systems: ConnectedSystem[] = [
     name: "Financial Management System",
     category: "finance",
     categoryName: "Financial Management",
-    url: "https://fin.priority-handling.com/",
+    url: "https://financial.priority-handling.com/",
     enabled: true,
     description: "Financial operations connected with logistics and wider business activity.",
     features: [
